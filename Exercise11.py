@@ -5,7 +5,7 @@ Belgium = 'Belgium,10445852,Brussels,737966,Europe,1830,Euro,Catholicism,Dutch,F
 # my main variableabove
 string_length = len(Belgium)
 # counting the lenght of my main variable
-# print(string_length)
+print(string_length)
 print(Belgium)
 print("-"*81)
 # multiplying the string object -
